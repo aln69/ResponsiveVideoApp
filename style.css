@@ -1,0 +1,43 @@
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #000;
+    color: #fff;
+}
+
+.d-flex button {
+    margin: 0 4x;
+}
+
+ul {
+    color: #fff;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
+
+li img {
+    width: 18 rem;
+    padding: 8px 8px;    
+}
+
+li:hover {
+    
+}
+
+.footer-list {
+    text-align: center;
+    text-decoration: noce;
+    margin: auto;
+}
+
+.footer-list li {
+    display: inline;
+}
